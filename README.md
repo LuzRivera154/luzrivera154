@@ -97,10 +97,10 @@
 
 <h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>
 <p align="center">
-  <a href="mailto:luzrivera154@hotmail.com" target="_blank" ><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"></a>
-  <a href="https://github.com/LuzRivera154" target="_blank" ><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/luzrivera154" target="_blank" ><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://gitlab.com/LuzRivera154" target="_blank" ><img width="48" height="48" src="./assets/icon-gitlab.png" alt="GitLab"></a><hr>
+  <a href="mailto:luzrivera154@hotmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"></a>
+  <a href="https://github.com/LuzRivera154" target="_blank" rel="noopener noreferrer" ><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/luzrivera154" target="_blank" rel="noopener noreferrer" ><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://gitlab.com/LuzRivera154" target="_blank" rel="noopener noreferrer" ><img width="48" height="48" src="./assets/icon-gitlab.png" alt="GitLab"></a><hr>
 
 <table>
   <tr>
