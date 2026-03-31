@@ -40,9 +40,9 @@
 
 <h2 id="-github-stats">📊 Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=LuzRivera154&show_icons=true&theme=algolia" alt="Luz's Stats" height="192px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuzRivera154&theme=algolia&hide_border=true" alt="Luz's Streak" height="192px">
   &nbsp;
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs?username=LuzRivera154&show_icons=true&layout=compact&theme=algolia" alt="Luz's Top Langs" height="192px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile_details?username=LuzRivera154&theme=algolia" alt="Luz's Profile Details" height="192px">
 </p>
 <br>
 
