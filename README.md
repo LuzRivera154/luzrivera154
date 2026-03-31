@@ -99,8 +99,8 @@
 <p align="center">
   <a href="mailto:luzrivera154@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"></a>
   <a href="https://github.com/LuzRivera154"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/luzrivera154"><img width="48" height="48" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://gitlab.com/LuzRivera154"><img src="./assets/icon-gitlab.png" alt="GitLab"></a><hr>
+  <a href="https://linkedin.com/in/luzrivera154"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://gitlab.com/LuzRivera154"><img width="48" height="48" src="./assets/icon-gitlab.png" alt="GitLab"></a><hr>
 
 <table>
   <tr>
