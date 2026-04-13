@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🚨 Currently Seeking an Apprenticeship for September 2026 (1 week school / 3 weeks company) 🚨</strong>
+  <strong>🚨 Currently Seeking an Apprenticeship for OCtobre 2026 (1 week school / 3 weeks company) 🚨</strong>
 </p>
 
 <hr>
