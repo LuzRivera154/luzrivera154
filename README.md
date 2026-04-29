@@ -5,19 +5,20 @@
 </p>
 
 <p align="center">
-  <strong>🚨 Currently Seeking an Apprenticeship for OCtobre 2026 (1 week school / 3 weeks company) 🚨</strong>
+  <strong>🚨 Admitted to Bachelor 3 (ESGI, EPSI, MyDigitalSchool) | Available for various apprenticeship rhythms 🚨</strong>
 </p>
-
 <hr>
 
-<h4 align="center">I am currently in my 3rd year of a Bachelor's degree in Web Engineering at ESGI Toulouse. Currently working as a Full Stack Intern at Gullu App, I am a persistent and solution-oriented developer. I love tackling new technical challenges and building scalable applications.</h4>
+<h4 align="center">I am currently a student at <strong>La Plateforme</strong> and have been admitted to the 3rd year of a Bachelor's degree in Web Engineering at ESGI, EPSI, and MyDigitalSchool.<br>
+Currently working as a Full Stack Intern at Gullu App, I am a persistent and solution-oriented developer who loves tackling new technical challenges and building scalable applications.</h4>
 
 <br>
 
 <h2 id="️-presentation">👨🏽‍💻 About Me</h2>
 
-* **👨‍💻 Current Role:** Web Engineering Student at **ESGI Toulouse** (Bachelor 3) | Full Stack Intern at **Gullu App**.
-* **🌱 Learning Journey:** Currently mastering **Django** and **Flutter** to build high-performance mobile and web solutions.
+* **👨‍💻 Current Status:** Student at **La Plateforme** | Admitted to Bachelor 3 (ESGI, EPSI, MyDigitalSchool).
+* **📈 Apprenticeship Rhythms:** Flexible depending on the school (2 days school / 3 days company, 1 week / 2 weeks, or 1 week / 3 weeks).
+* **🌱 Learning Journey:** Currently specializing in **Symfony**, with a strong foundation in **Django** and **Flutter**.
 * **🤔 Core Interests:** Full Stack Development, Backend Logic, and Complex Problem Solving.
 * **💬 Let's chat:** About web architecture, API integrations, my journey into tech, or even just for some friendly advice. And of course, if you have an exciting apprenticeship opportunity!
 
@@ -104,8 +105,8 @@
       <h3>📍 Current Info</h3>
       <ul>
         <li><b>Location:</b> 31400 Toulouse, France</li>
-        <li><b>Work preference:</b> Apprenticeship (1 week school / 3 weeks company)</li>
-        <li><b>Last Edited:</b> 31/03/2026</li>
+       <li><b>Work preference:</b> Apprenticeship (Flexible rhythm: 1w/3w, 1w/2w, or 2d/3d)</li>
+        <li><b>Last Edited:</b> 29/04/2026</li>
       </ul>
     </td>
     <td width="50%" align="right">
