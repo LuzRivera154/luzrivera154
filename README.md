@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🚨 Admitted to Bachelor 3 (ESGI, EPSI, MyDigitalSchool) | Available for various apprenticeship rhythms 🚨</strong>
+  <strong>🚨 Admitted to Bachelor 3 (ESGI, EPSI) | Available for various apprenticeship rhythms 🚨</strong>
 </p>
 <hr>
 
@@ -17,8 +17,9 @@ Currently working as a Full Stack Intern at Gullu App, I am a persistent and sol
 <h2 id="️-presentation">👨🏽‍💻 About Me</h2>
 
 * **👨‍💻 Current Status:** Student at **La Plateforme** | Admitted to Bachelor 3 (ESGI, EPSI, MyDigitalSchool).
-* **📈 Apprenticeship Rhythms:** Flexible depending on the school (2 days school / 3 days company, 1 week / 2 weeks, or 1 week / 3 weeks).
-* **🌱 Learning Journey:** Currently specializing in **Symfony**, with a strong foundation in **Django** and **Flutter**.
+* **📈 Apprenticeship Rhythms:** Flexible depending on the school (1 week school / 2 weeks company, or 1 week school / 3 weeks company).
+* **🌱 Learning Journey:** Currently specializing in **Symfony** & **Twig**, with a strong foundation in **Django** and **Flutter**.
+* **🔨 Current Project:** Building **À la brasa** — a B2G web app for discovering and managing public barbecue grills in Haute-Garonne, France. Built with **Symfony**, **Twig**, **Doctrine ORM** and **OpenStreetMap APIs**.
 * **🤔 Core Interests:** Full Stack Development, Backend Logic, and Complex Problem Solving.
 * **💬 Let's chat:** About web architecture, API integrations, my journey into tech, or even just for some friendly advice. And of course, if you have an exciting apprenticeship opportunity!
 
