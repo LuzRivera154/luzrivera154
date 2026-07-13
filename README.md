@@ -9,7 +9,7 @@
 </p>
 <hr>
 
-<h4 align="center">I am currently a student at <strong>La Plateforme</strong> and have been admitted to the 3rd year of a Bachelor's degree in Web Engineering at ESGI, EPSI, and MyDigitalSchool.<br>
+<h4 align="center">I am currently a student at <strong>La Plateforme</strong> and have been admitted to the 3rd year of a Bachelor's degree in Web Engineering at ESGI, EPSI.<br>
 Currently working as a Full Stack Intern at Gullu App, I am a persistent and solution-oriented developer who loves tackling new technical challenges and building scalable applications.</h4>
 
 <br>
