@@ -1,36 +1,37 @@
 # 💫 Salut, je suis Luz Rivera !
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Engineering+Student;Full+Stack+Web+Developer;Seeking+Apprenticeship+2026;Building+Scalable+Solutions&amp;center=true&amp;width=500&amp;height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Apprentice+@+ENAC;Bachelor+Student+@+EPSI;Building+Scalable+Solutions&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
-  <strong>🚨 Admitted to Bachelor 3 (ESGI, EPSI) | Available for various apprenticeship rhythms 🚨</strong>
+  <strong>🚀 Full Stack Web Developer Apprentice @ ENAC | Bachelor 3 Student @ EPSI 🚀</strong>
 </p>
 <hr>
 
-<h4 align="center">I am currently a student at <strong>La Plateforme</strong> and have been admitted to the 3rd year of a Bachelor's degree in Web Engineering at ESGI, EPSI.<br>
-Currently working as a Full Stack Intern at Gullu App, I am a persistent and solution-oriented developer who loves tackling new technical challenges and building scalable applications.</h4>
-
+<h4 align="center">I am currently studying for a Bachelor's degree (B3 - CDA) at <strong>EPSI</strong> and working as a Full Stack Web Developer Apprentice at <strong>ENAC</strong> (École Nationale de l'Aviation Civile).<br>
+I am a persistent and solution-oriented developer who loves tackling complex technical challenges, building scalable web applications, and integrating AI workflows.</h4>
 <br>
 
 <h2 id="️-presentation">👨🏽‍💻 About Me</h2>
 
-* **👨‍💻 Current Status:** Student at **La Plateforme** | Admitted to Bachelor 3 (ESGI, EPSI, MyDigitalSchool).
-* **📈 Apprenticeship Rhythms:** Flexible depending on the school (1 week school / 2 weeks company, or 1 week school / 3 weeks company).
-* **🌱 Learning Journey:** Currently specializing in **Symfony** & **Twig**, with a strong foundation in **Django** and **Flutter**.
-* **🔨 Current Project:** Building **À la brasa** — a B2G web app for discovering and managing public barbecue grills in Haute-Garonne, France. Built with **Symfony**, **Twig**, **Doctrine ORM** and **OpenStreetMap APIs**.
-* **🤔 Core Interests:** Full Stack Development, Backend Logic, and Complex Problem Solving.
-* **💬 Let's chat:** About web architecture, API integrations, my journey into tech, or even just for some friendly advice. And of course, if you have an exciting apprenticeship opportunity!
+* **👨‍💻 Current Status:** Bachelor 3 Student at **EPSI** | Full Stack Apprentice at **ENAC**.
+* **🏛️ Professional Focus:** Developing & maintaining HR web applications (Laravel / Vue.js) within the IT Department (PSI) at ENAC.
+* **🌱 Tech Stack & Interests:** Deepening my expertise in the **PHP ecosystem** (Laravel, Symfony) alongside a strong background in **React**, **Django**, and **Flutter**.
+* **🔨 Major Solo Project:** **À la brasa** — a full-scale B2G web app for discovering and managing public barbecue grills in Haute-Garonne, France. End-to-end solo development using **Symfony**, **Twig**, **Doctrine ORM**, and **OpenStreetMap APIs**.
+* **🤖 AI Integration:** Leveraging Generative AI for code generation, automated testing, documentation, and workflow optimization.
+* **💬 Let's chat:** About web architecture, API integrations, Laravel/Vue.js ecosystems, or tech in general!
 
 ---
 
 <h2 id="-projects">📂 Projects & Experiences</h2>
 
-#### 🏢 Professional & Advanced Projects (Private)
-* 📱 **Gullu App (GitLab):** **Currently Full Stack Intern.** Developing a social & travel mobile application. Working on cross-platform features using **Flutter** and robust backend logic with **Django**.
-* 🎬 **marsAI (GitHub):** Full-Stack MERN platform for an international film festival. Managed the complete lifecycle from **database modeling (Sequelize)** to **Docker** deployment and secure **REST API** architecture.
-* 🏛️ **Médiathèque (GitHub):** Comprehensive multimedia management system built with **PHP (MVC)**. Focused on clean code structure, database integrity, and user session management.
+#### 🏢 Professional & Major Projects
+* ✈️ **ENAC (PSI - SG):** **Full Stack Apprentice.** Developing and maintaining HR web applications (`BaseRH` and `ENIX`) using **PHP 8.2 (Laravel)**, **Vue.js**, and AI-assisted development workflows.
+* 🥩 **À la brasa (GitHub):** **Major Solo Project.** Full-scale B2G web app for discovering and managing public barbecue grills in Haute-Garonne. Independent end-to-end development using **Symfony**, **Twig**, **Doctrine ORM**, and **OpenStreetMap APIs**.
+* 📱 **Gullu App (GitLab):** **Former Full Stack Intern.** Developed a social & travel mobile application featuring cross-platform components with **Flutter** and backend logic with **Django**.
+* 🎬 **marsAI (GitHub):** Full-Stack platform for an international film festival. Managed the complete lifecycle from **database modeling (Sequelize)** to **Docker** deployment and **REST API** architecture.
+* 🏛️ **Médiathèque (GitHub):** Multimedia management system built with **PHP (MVC)**, focusing on clean architecture, security, and session management.
 
 #### 🧪 Featured Public Repositories (Learning & Exercises)
 * 🚀 **[Earth Defender](https://github.com/LuzRivera154/earth-defender):** 2D Game built with **Object-Oriented Programming** (Classes, Inheritance, Polymorphism).
